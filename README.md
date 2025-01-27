@@ -1,5 +1,5 @@
 # OpenWebUI-with-Ollama-Update-Script
-A BAT script that automates the process of updating OpenWebUI with Ollama using Docker Desktop on Windows
+A BAT script that automates the process of updating OpenWebUI with Ollama using **Docker/ Docker Desktop on Windows**
 
 **Explanation of the Script:**
 
